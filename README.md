@@ -1,2 +1,3 @@
-# mui-starter
-⚛️📦 React + Webpack + Material UI starter
+# MUI Starter
+
+React + Webpack + Material UI starter
